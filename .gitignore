@@ -1,0 +1,18 @@
+# Node.js (for web)
+node_modules/
+npm-debug.log
+
+# Python (for AI)
+__pycache__/
+*.pyc
+*.pyo
+
+# Arduino / Robotics
+*.bin
+*.hex
+
+# VS Code settings
+.vscode/
+
+# General
+.DS_Store
